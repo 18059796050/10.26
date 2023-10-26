@@ -1,0 +1,23 @@
+{ "WALLET_PRIVATE_KEY":"",
+    "srpc": ["https://patient-sleek-research.solana-mainnet.quiknode.pro/7432a86b0ed5fefd5d321ff8fdebc9aabd806fb5/"],
+     "srpc1":"https://patient-sleek-research.solana-mainnet.quiknode.pro/7432a86b0ed5fefd5d321ff8fdebc9aabd806fb5/",
+    "min":30,
+    "max":60,
+    "slippage": 1,
+    "MINT_ADDRESS":"So11111111111111111111111111111111111111112",
+    "out_MINT_ADDRESS":"EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "marketUrl": "https://cache.jup.ag/markets?v=3",
+    "restrictIntermediateTokens":false,
+    "coin":["pubkey",
+    "86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm",
+    "8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6",
+    "7qbRF6YsyGuLUVs6Y1q64bdVrfe4ZcUUz1JRdoVNUJnm",
+    "58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2",
+    "GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841",
+    "DrRd8gYMJu9XGxLhwTCPdHNLXCKHsxJtMpbn62YqmwQe",
+    "2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv"
+    ],
+    "cs":5000000,
+    "fee":850,
+    "corelx":"3TSOL=DC+quiknode"
+}
